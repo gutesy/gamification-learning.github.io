@@ -1,2 +1,8 @@
 theme: minima
 title: Research Showcase
+
+header_pages:
+  - study1.md
+  - study2.md
+  - study3.md
+  - about.md
